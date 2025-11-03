@@ -51,3 +51,9 @@ header {
 
 .paragraph 1 {
   margin: 30px
+  min-height: 100px;
+  background: #404040;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
