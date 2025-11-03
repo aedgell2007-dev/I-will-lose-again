@@ -40,7 +40,7 @@ header {
   margin: 0 0 40px 0;
 }
 
-.paragraph {
+.sub-heading {
   margin: 30px
   min-height: 1200px;
   background: #404040;
@@ -48,3 +48,6 @@ header {
   justify-content: left;
   align-items: left;
 }
+
+.sub-heading-content {
+  background: url(
