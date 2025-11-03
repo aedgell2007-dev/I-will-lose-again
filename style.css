@@ -43,12 +43,9 @@ header {
 .sub-heading {
   margin: 30px
   min-height: 1200px;
-  background: #404040;
+  background: url('images/Screenshot 2025-10-08 135055.png') center/cover no-repeat;
   display: flex;
   justify-content: left;
   align-items: left;
 }
 
-.sub-heading-content {
-  background: url('images/Screenshot 2025-10-08 135055.png') center/cover no-repeat
-} 
