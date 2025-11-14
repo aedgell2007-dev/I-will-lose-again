@@ -18,7 +18,7 @@ header {
 
 .hero {
   min-height: 800px;
-  background: url('images/Screenshot 2025-10-07 140932.png') center/cover no-repeat;
+  background: url('images/Screenshot 2025-10-07 140932.png') center top/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -41,16 +41,17 @@ header {
 }
 
 .sub-heading {
-  margin: 30px
+  margin: 30px;
   height: 1200px;
-  background: url('images/Screenshot 2025-10-08 135055.png') center/cover no-repeat;
+  background: url('images/Screenshot 2025-10-08 135055.png') center top/cover no-repeat;
+  background-position: center -800px;
   display: flex;
   justify-content: left;
   align-items: left;
 }
 
 .paragraph 1 {
-  margin: 30px
+  margin: 30px;
   min-height: 100px;
   background: #404040;
   display: flex;
